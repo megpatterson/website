@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "125476617",
+    "hash" : "2355193670",
     "id" : "A1A5E23B",
-    "lastKnownWriteTime" : 1570826128,
-    "last_content_update" : 1570826128,
+    "lastKnownWriteTime" : 1570851780,
+    "last_content_update" : 1570851780018,
     "path" : "~/GitHub/website/config/_default/params.toml",
     "project_path" : "config/_default/params.toml",
     "properties" : {
+        "cursorPosition" : "112,25",
+        "scrollLine" : "93"
     },
     "relative_order" : 2,
     "source_on_save" : false,
