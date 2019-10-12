@@ -24,8 +24,7 @@ interests:
 - Social Network Analysis
 - Addiction and Recovery
 - Physical Activity
-- COmmunity Health
-- Interpersonal Violence
+- Community Health
 
 education:
   courses:
