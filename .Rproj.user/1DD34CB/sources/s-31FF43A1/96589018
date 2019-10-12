@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3178253280",
+    "hash" : "1694042691",
     "id" : "96589018",
-    "lastKnownWriteTime" : 1570826293,
-    "last_content_update" : 1570826293738,
+    "lastKnownWriteTime" : 1570849648,
+    "last_content_update" : 1570849648676,
     "path" : "~/GitHub/website/content/authors/admin/_index.md",
     "project_path" : "content/authors/admin/_index.md",
     "properties" : {
-        "cursorPosition" : "16,28",
-        "scrollLine" : "8"
+        "cursorPosition" : "27,24",
+        "scrollLine" : "21"
     },
     "relative_order" : 1,
     "source_on_save" : false,

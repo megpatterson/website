@@ -18,12 +18,14 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: First and foremost, I believe in working hard and being really nice to people! When I do research, it usually consists of using social network analysis to investigate health.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Social Network Analysis
+- Addiction and Recovery
+- Physical Activity
+- COmmunity Health
+- Interpersonal Violence
 
 education:
   courses:
