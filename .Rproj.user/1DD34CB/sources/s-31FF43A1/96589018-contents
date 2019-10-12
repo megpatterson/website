@@ -72,6 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Meg Patterson is an Assistant Professor professor of Health and Kinesiology at the Texas A&M University. Her research focuses on using network analysis to measure how social and spatial networks impact the overall wellbeing of individuals and communities. Her training in research methods and network analysis provides ample opportunities to design, conduct, and collaborate on a variety of studies within behavioral science. 
